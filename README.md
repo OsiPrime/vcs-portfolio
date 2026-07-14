@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! My name is Travis. I am a student interested in software development, web design, UI/UX, and Version Control Systems. I enjoy learning new technologies and building useful projects.
+Hello! My name is Esheya osinachi (Travis). I am a student interested in software development, web design, UI/UX, and Version Control Systems. I enjoy learning new technologies and building useful projects.
 
 ## Programming Skills
 
